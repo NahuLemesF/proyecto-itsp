@@ -1,0 +1,11 @@
+Comandos GIT
+
+Git add .  = actualizar cambios
+
+Git commit -m "Elcomentario" = Para hacer un commit
+
+git push -u = para cargarlo en github
+
+git pull = para descargar la ultima version
+
+git log = para ver todas las versiones 
