@@ -1,0 +1,5 @@
+Insertar Laptop
+Cambiar tarjeta NIC FastEthernet por una
+wireless adapter module (apagar lapop antes de
+realizar el cambio)
+
